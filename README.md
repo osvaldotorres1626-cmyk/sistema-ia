@@ -11,3 +11,6 @@ mi nombre es osvaldo ivan torres rodriguez
 - Documentacion
 
 ### tecnologias
+
+## Estado del proyecto
+Prototipo inicial.
